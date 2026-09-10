@@ -1,0 +1,8 @@
+{
+  "name": "cloudpulse-app",
+  "version": "1.0.0",
+  "description": "CloudPulse Jenkins CI Demo",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
